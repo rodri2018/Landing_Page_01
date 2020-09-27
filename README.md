@@ -16,7 +16,7 @@ En la mercadotecnia en internet, se denomina página de aterrizaje o **Landing P
 
 ### Autor
 
-**Carlos Garcia**
-[Cuenta de Github](https://github.com/agzsoftsi)
-[Cuenta de Twitter](https://twitter.com/karlgarmor)
+**Rodrigo Ospina**
+[Cuenta de Github](https://github.com/rodri2018/)
+[Cuenta de Twitter](https://twitter.com/rodrigo_3050)
 2020
